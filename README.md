@@ -1,0 +1,1 @@
+Advanced Calculator: A Java Swing application featuring a GUI for performing basic arithmetic operations, parentheses handling, exponentiation, and trigonometric functions. Supports real-time evaluation of mathematical expressions with error handling. Ideal for learning GUI programming and expression parsing.
